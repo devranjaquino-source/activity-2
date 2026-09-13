@@ -1,0 +1,11 @@
+:root {
+  font-family: Inter, Avenir, 'Segoe UI', Arial, sans-serif;
+  color: #0d2c3a;
+  background: #f7f2ea;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+button, a { font: inherit; }
